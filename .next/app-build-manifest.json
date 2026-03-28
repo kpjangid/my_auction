@@ -1,0 +1,57 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/chunks/app/_not-found/page-398cd131668b5947.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/css/a922dfdbbb14fd34.css",
+      "static/chunks/74-7744f57f240f7399.js",
+      "static/chunks/485-8f8993ec07fef584.js",
+      "static/chunks/app/layout-29d3be0f6219e925.js"
+    ],
+    "/auction/page": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/chunks/74-7744f57f240f7399.js",
+      "static/chunks/841-361a96b4a2697416.js",
+      "static/chunks/827-ad3f1102da7c09a6.js",
+      "static/chunks/app/auction/page-b4d711b995ec19e9.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/chunks/485-8f8993ec07fef584.js",
+      "static/chunks/app/page-13a867ad808e78f6.js"
+    ],
+    "/players/page": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/chunks/74-7744f57f240f7399.js",
+      "static/chunks/841-361a96b4a2697416.js",
+      "static/chunks/app/players/page-70080fc8524422a9.js"
+    ],
+    "/teams/page": [
+      "static/chunks/webpack-83cbf24affa89cd8.js",
+      "static/chunks/618f8807-8a0f65be9c31ed72.js",
+      "static/chunks/364-1b8f15fd4015355e.js",
+      "static/chunks/main-app-961168a3d5c420f3.js",
+      "static/chunks/74-7744f57f240f7399.js",
+      "static/chunks/841-361a96b4a2697416.js",
+      "static/chunks/app/teams/page-2ba4d2c1b193327e.js"
+    ]
+  }
+}
